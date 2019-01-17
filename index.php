@@ -16,14 +16,6 @@
 <?php
 ?>
 <!--AD-->
-<!-- i-mobile for SmartPhone client script -->
-	<script type="text/javascript">
-		imobile_tag_ver = "0.3"; 
-		imobile_pid = "44033"; 
-		imobile_asid = "637810"; 
-		imobile_type = "overlay";
-	</script>
-	<script type="text/javascript" src="https://spad.i-mobile.co.jp/script/adssp.js?20110215"></script>
 <!--AD End-->
 <h2>文字置き換えツール（置き換えくん）</h2>
 <p><form action='index.php' method='POST'>
@@ -58,16 +50,3 @@ Var. 2.1.2・Bug fix and changing the system<br />
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-<!---->
